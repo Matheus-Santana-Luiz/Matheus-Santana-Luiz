@@ -1,4 +1,4 @@
-### Olá! Eu sou o Matheus Santana.
+### Hey there! I'm Matheus Santana.
 <div align="center">
   <a href="https://github.com/Matheus-Santana-Luiz">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Santana-Luiz&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
